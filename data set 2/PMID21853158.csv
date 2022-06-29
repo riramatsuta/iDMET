@@ -1,0 +1,252 @@
+BIOCHEMICAL NAME,24 hr,48 hr,72 hr
+,Fold Change,Fold Change,Fold Change
+glycine,1.23,1.06,0.81
+serine,1.08,0.87,0.72
+N-acetylserine,1.19,0.92,0.78
+homoserine,1.02,0.83,0.81
+threonine,1.1,0.98,0.84
+betaine,1.09,1,1.22
+alanine,1.15,0.92,0.71
+beta-alanine,0.94,0.85,1.21
+N-acetylalanine,0.87,0.34,1.2
+aspartate,0.93,0.77,0.64
+N-acetylaspartate,1.03,0.77,0.77
+asparagine,1.12,1.34,1.44
+glutamate,1.1,1.26,1.63
+glutamine,1.07,0.88,0.8
+gamma-aminobutyrate,1.01,1.06,1.18
+N-acetylglutamate,1.61,0.98,0.87
+N-acetyl-aspartyl-glutamate,1.26,0.98,1.12
+N-acetylglutamine,1.3,0.82,0.92
+histidine,1.08,0.94,0.98
+lysine,1.07,1.28,1.2
+2-aminoadipate,1.04,0.94,0.79
+phenylalanine,1.12,1,1.01
+tyrosine,1.19,0.96,1.04
+3-(4-hydroxyphenyl)lactate,0.58,0.55,1.48
+N-acetylphenylalanine,1.23,0.79,0.85
+N-acetyltyrosine,1.25,0.84,0.73
+phenylacetylglycine,0.98,0.9,0.99
+kynurenine,1.19,1,0.31
+tryptophan,1.13,0.98,1.04
+N-acetyltryptophan,1.19,0.98,0.76
+3-methyl-2-oxovalerate,0.89,0.96,1.15
+isoleucine,1.16,0.97,1.07
+leucine,1.09,0.98,0.98
+valine,1.11,0.98,1.1
+4-methyl-2-oxopentanoate,1.09,1.02,1.1
+isobutyrylcarnitine,1.07,0.96,0.87
+2-methylbutyroylcarnitine,1.01,0.95,0.79
+isovalerylcarnitine,1.03,0.89,0.82
+hydroxyisovaleroyl carnitine,0.91,0.82,0.66
+cysteine,1.07,0.83,0.48
+cystathionine,1.07,0.76,0.58
+hypotaurine,0.99,1,1.48
+taurine,1.05,0.74,0.95
+S-adenosylhomocysteine,1.21,0.93,0.79
+methionine,1.07,1.02,1.31
+N-acetylmethionine,1.08,0.81,0.99
+homocysteine,1.86,2.49,0.42
+arginine,1.04,1.36,1.33
+ornithine,1.14,1.06,0.97
+urea,1.06,1.18,0.77
+proline,1.27,0.89,0.86
+N-acetylornithine,0.97,1.77,1.57
+trans-4-hydroxyproline,1.31,1.02,0.53
+creatine,1.06,0.95,0.94
+2-aminobutyrate,1.07,0.98,1
+5-methylthioadenosine,1.15,0.86,0.82
+putrescine,0.85,0.79,0.54
+spermidine,1.06,0.97,0.98
+spermine,1.17,0.77,0.85
+4-guanidinobutanoate,1.07,0.72,0.86
+GSH,1.04,0.79,0.97
+S-methylglutathione,1.09,0.84,0.79
+5-oxoproline,1.04,0.98,1.14
+"glutathione, oxidized",1.11,0.85,1.24
+cysteine-glutathione disulfide,4.32,0.63,0.69
+ophthalmate,1,0.79,1.31
+glycylleucine,0.72,0.95,0.89
+alanylleucine,1.02,0.82,0.76
+cysteinylglycine,0.96,0.73,0.74
+gamma-glutamylvaline,1.32,1.14,1.34
+gamma-glutamylleucine,1.08,0.86,1.38
+gamma-glutamylisoleucine,1.22,0.81,1.31
+gamma-glutamylcysteine,1.23,1.14,1.02
+gamma-glutamylglutamate,1.39,1.89,2.2
+gamma-glutamylthreonine,0.97,0.94,1.33
+gamma-glutamylalanine,0.86,0.66,1.38
+erythronate,1.18,0.75,0.55
+N-acetylneuraminate,0.95,0.84,0.69
+fructose,1.11,0.9,0.95
+lactose,0.97,0.92,0.89
+mannitol,1.33,1.7,1.13
+sorbitol,1.2,1.06,0.91
+maltotetraose,0.36,0.08,3.3
+maltopentaose,1,1,1
+glucose 6-phosphate,1.15,1.22,1.57
+glucose,0.81,0.83,1.28
+"Isobar: fructose 1,6-diphosphate, glucose 1,6-diphosphate",1.18,1.49,2.36
+"2,3-diphosphoglycerate",1.01,0.92,1.4
+pyruvate,0.95,0.61,0.49
+lactate,1.07,0.84,0.73
+arabitol,1.28,0.63,0.3
+ribitol,1.5,1.62,0.95
+sedoheptulose 7-phosphate,1.91,1.6,0.76
+UDP-glucose,1.09,1.08,0.97
+UDP-glucuronate,0.79,0.62,0.8
+UDP-N-acetylglucosamine,0.98,0.87,0.85
+xylonate,1.51,0.96,0.46
+UDP-galactose,2.51,0.77,0.92
+citrate,1.06,0.92,1.05
+cis-aconitate,1.07,0.85,1.24
+alpha-ketoglutarate,1.55,0.9,1.43
+succinate,1.07,0.79,0.75
+fumarate,1.08,0.8,0.79
+malate,1,0.77,0.75
+succinyl CoA,1.17,1.03,0.95
+acetylphosphate,1.04,0.71,0.97
+phosphate,1,0.86,0.99
+pyrophosphate,0.73,0.69,1.04
+dihomo-linolenate,1.12,0.4,1.2
+docosapentaenoate,0.52,0.4,1.41
+docosahexaenoate,1.17,0.85,1.07
+caprylate,1.38,0.83,14.69
+pelargonate,1.12,0.88,1.42
+caprate,1.03,1.04,1.45
+undecanoate,0.67,0.79,1.87
+laurate,1,0.88,1.37
+myristate,1.08,0.8,1.41
+myristoleate,0.9,1,1.36
+pentadecanoate,1.01,1.1,0.98
+palmitate,1.13,0.76,1.35
+palmitoleate,1.15,0.89,1.17
+margarate,1.21,0.89,1.26
+10-heptadecenoate,1.09,0.67,1.2
+stearate,1.02,1,1.19
+oleate,1.08,0.94,1.13
+cis-vaccenate,0.91,1.09,1.07
+linoleate,1.1,0.77,1.26
+nonadecanoate,1.19,0.8,1.58
+10-nonadecenoate,2.14,3.74,2.23
+eicosenoate,0.96,0.84,1.61
+dihomo-linoleate,0.92,0.8,1.33
+mead acid,0.86,0.73,1.25
+arachidonate,1.02,0.72,1.21
+docosadienoate,2.07,0.84,1.2
+docosatrienoate,0.39,0.88,2
+n-Butyl Oleate,0.6,1.05,1.42
+2-hydroxystearate,1.94,0.29,1.23
+2-hydroxypalmitate,1.32,0.57,0.86
+2-hydroxyglutarate,1.06,0.72,0.47
+propionylcarnitine,0.97,0.83,0.85
+butyrylcarnitine,1.04,0.87,0.73
+valerylcarnitine,0.97,0.82,0.56
+deoxycarnitine,1.12,0.83,0.89
+carnitine,1.12,0.99,0.94
+3-dehydrocarnitine,0.97,0.72,0.73
+acetylcarnitine,1.12,0.97,0.77
+oleoylcarnitine,0.67,0.51,1.36
+choline phosphate,1.13,0.99,1.87
+ethanolamine,1.65,1.17,0.93
+phosphoethanolamine,0.86,0.46,0.88
+glycerophosphoethanolamine,0.78,0.32,0.27
+glycerol 3-phosphate,0.98,0.82,0.91
+glycerophosphorylcholine,1.04,1.04,1.45
+cytidine 5'-diphosphocholine,1.17,0.93,0.94
+cytidine-5'-diphosphoethanolamine,1.23,0.65,0.93
+myo-inositol,1.07,0.52,0.35
+inositol 1-phosphate,0.97,1.04,1.21
+scyllo-inositol,1.28,0.56,0.4
+myo-inositol hexakisphosphate,1.17,0.97,1.06
+1-palmitoylglycerophosphoethanolamine,1.61,0.68,0.74
+2-palmitoleoylglycerophosphoethanolamine,1.02,1,1.66
+1-stearoylglycerophosphoethanolamine,1.4,0.69,1.17
+1-oleoylglycerophosphoethanolamine,1.34,0.81,1.22
+2-oleoylglycerophosphoethanolamine,1.01,1.42,1.33
+1-arachidonoylglycerophosphoethanolamine,1.31,0.47,1.14
+2-arachidonoylglycerophosphoethanolamine,0.98,0.87,1.54
+2-docosapentaenoylglycerophosphoethanolamine,1.25,0.79,1.24
+2-docosahexaenoylglycerophosphoethanolamine,1,0.94,1.71
+1-myristoylglycerophosphocholine,1.15,1.27,2.23
+2-myristoylglycerophosphocholine,1.5,1.5,2.14
+1-palmitoylglycerophosphocholine,1.16,1.3,1.58
+2-palmitoylglycerophosphocholine,1.43,1.45,2.1
+1-palmitoleoylglycerophosphocholine,1.93,2.77,0.98
+2-palmitoleoylglycerophosphocholine,0.99,0.96,1.99
+1-stearoylglycerophosphocholine,1.08,1.28,1.61
+1-oleoylglycerophosphocholine,1.3,1.28,1.62
+2-oleoylglycerophosphocholine,1.22,1.22,1.4
+1-linoleoylglycerophosphocholine,20.46,0.91,2.26
+2-linoleoylglycerophosphocholine,1.82,0.9,1.48
+2-arachidonoylglycerophosphocholine,1.08,1.13,2.1
+2-docosapentaenoylglycerophosphocholine,2.82,0.85,1.57
+2-docosahexaenoylglycerophosphocholine,1.22,0.87,2.24
+1-palmitoylglycerophosphoinositol,1.35,1.49,2.13
+1-stearoylglycerophosphoinositol,1.09,1.41,3.11
+1-oleoylglycerophosphoinositol,1.54,2.02,2.15
+1-arachidonoylglycerophosphoinositol,1.16,0.9,5.26
+1-oleoylglycerophosphoserine,0.72,1.17,1.38
+2-palmitoylglycerol,0.15,0.27,8.51
+1-oleoylglycerol,0.54,0.09,0.7
+sphinganine,1.18,1.13,1.57
+sphingosine,1.41,1.09,1.47
+palmitoyl sphingomyelin,1.05,0.74,0.74
+stearoyl sphingomyelin,1.84,0.73,0.69
+lathosterol,1.95,2.64,2.36
+cholesterol,1.11,1.06,1.31
+dihydrocholesterol,3.31,0.91,0.77
+7-alpha-hydroxycholesterol,1.03,14.89,0.4
+7-beta-hydroxycholesterol,0.86,1.73,0.2
+xanthine,0.91,1.28,0.84
+hypoxanthine,1,1.18,1.06
+inosine,1.37,1.03,0.99
+inosine 5'-monophosphate,1.44,1.2,0.84
+adenine,0.74,1.16,1.02
+adenosine,1.21,0.96,0.94
+adenosine 5'-monophosphate,1.27,0.92,1.02
+adenosine 5'-diphosphate,1.05,0.87,1.11
+adenosine 5'-triphosphate,1.05,0.52,0.66
+adenylosuccinate,1.39,1.24,0.79
+guanine,0.53,1.28,1.3
+guanosine,1.13,0.88,0.8
+guanosine 5'- monophosphate,1.14,0.96,1.14
+guanosine 5'-diphospho-fucose,1.04,0.8,0.73
+N6-carbamoylthreonyladenosine,0.85,1.13,0.3
+guanosine 5'-triphosphate,1.02,0.97,2.89
+allantoin,0.9,1.2,0.78
+cytidine,1.22,0.95,0.85
+cytidine 5'-monophosphate,1.09,0.97,1.09
+cytidine diphosphate,1.07,0.92,1.12
+cytidine triphosphate,0.96,0.91,1.15
+thymidine 5'-monophosphate,1.19,0.98,0.77
+3-aminoisobutyrate,1.06,0.81,0.96
+uracil,0.8,0.92,0.94
+uridine,1.01,0.98,0.82
+pseudouridine,1.09,0.96,1.12
+5-methyluridine,0.61,0.29,0.55
+uridine 5'-monophosphate,1.09,0.95,0.97
+uridine 5'-diphosphate,1.1,0.92,1.07
+uridine 5'-triphosphate,1,0.91,1.08
+methylphosphate,1.11,0.72,0.95
+"gulono-1,4-lactone",1.06,0.64,0.35
+arabonate,1.16,1.05,0.54
+biopterin,1.6,0.89,1.01
+nicotinamide,1.11,0.89,0.89
+nicotinamide adenine dinucleotide,1.11,0.98,0.91
+nicotinamide adenine dinucleotide reduced,0.87,0.47,0.71
+nicotinamide adenine dinucleotide phosphate,1.11,0.9,1.86
+adenosine 5'diphosphoribose,0.76,0.95,1.67
+pantothenate,1.08,0.86,0.8
+coenzyme A,1.05,0.77,0.75
+3'-dephosphocoenzyme A,13.84,0.14,0.98
+acetyl CoA,1.89,1.02,0.86
+flavin adenine dinucleotide,1.12,0.88,0.88
+flavin mononucleotide,1.04,0.11,0.82
+thiamin,1.02,0.89,1.88
+pyridoxine,0.82,0.79,0.96
+hippurate,0.98,0.87,0.99
+glycerol 2-phosphate,1.13,1.26,1.05
+phenol red,0.97,0.89,0.9
+penicillin G,0.92,0.82,0.82
+erythritol,0.98,0.84,0.77

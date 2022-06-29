@@ -1,0 +1,86 @@
+,APC mutation vs Full,APC full vs control,APC mutation vs Control
+,Ratio,Ratio,Ratio
+"1,5-Anhydro-D-glucitol",1.03,1.01,1.04
+1-Methyl Histidine,0.89,0.92,0.82
+"2,3-Bisphospho-glycerate",1.13,0.85,0.96
+2-Aminoethanol,0.95,0.93,0.88
+2-Dehydro-D-gluconate,1.02,0.94,0.96
+2-Hydroxypyridine,0.35,1.77,0.62
+3-Hydroxy-Butyrate,1.14,1.025,1.17
+3-Hydroxyisovaleric acid,1.28,0.71,0.91
+5-Aminovaleric acid,0.77,0.96,0.74
+5-Keto-D-Gluconate,1.16,1,1.16
+Alanine,1.02,0.72,0.74
+Arabinose,0.75,1.14,0.86
+Arabitol,0.55,3.67,2.01
+a-Sorbopyranose,0.49,1.08,0.52
+Asparagine,0.81,0.82,0.67
+Aspartic acid,0.78,1.25,0.97
+beta-Alanine,1.08,1.09,1.18
+"Benzen-1,4-Dicarboxylic acid",0.23,1.52,0.35
+Benzoic acid,0.77,1.15,0.88
+Citric acid + Isocitric acid,0.97,0.96,0.93
+Citrulline,1.4,1,1.4
+Coniferyl alcohol,1.25,0.67,0.84
+Cystathionine,0.73,0.82,0.61
+Cysteine+Cystine,1.08,0.9,0.98
+Elaidic acid,0.72,0.54,0.39
+Fructose,1.03,1.18,1.21
+Fumaric acid,0.83,0.92,0.76
+Galactosamine,1.2,0.67,0.8
+Galacturonic acid,1.15,0.94,1.09
+Glucose,1.23,0.87,1.08
+Glucuronate,1.04,0.92,0.95
+Glutamic acid,0.7,1.31,0.92
+Glutamine,1,0.82,0.81
+Glyceric acid,1.01,1.03,1.03
+Glycerol,0.7,1.06,0.74
+Glycerol-2-Phosphate,0.91,1.08,0.98
+Glycine,1.06,0.86,0.92
+Glycolic acid,1.13,0.98,1.11
+Histidine,0.9,0.77,0.69
+Icosanoic acid,0.79,0.83,0.66
+Inositol,0.9,1.03,0.93
+Isoleucine,1.31,0.79,1.04
+Ketoisoleucine,1.18,0.63,0.75
+Lactic acid,1.01,0.7,0.7
+Lauric acid,1.02,1.09,1.11
+Lysine,0.89,0.82,0.73
+Malic acid,0.75,0.89,0.66
+Mannose,0.97,0.9,0.87
+meso-erythritol,0.95,1.02,0.97
+Methionine,1.11,0.87,0.96
+N-a-Acetyl-L-Lysine,1.52,0.8,1.21
+N-a-Acetyl-L-Ornithine,1.14,0.82,0.94
+N-Acetyl-L-glutamine,0.69,0.98,0.68
+n-Butylamine,1.12,0.93,1.04
+n-Caprylic acid,0.42,1.82,0.77
+Nonanoic acid,0.77,1.16,0.89
+O-Phosphoethanolamine,0.63,1.06,0.66
+Ornithine,1.09,0.93,1.02
+Oxalate,1.14,1.28,1.46
+Palmitoleate,0.46,1.43,0.66
+Phenylalanine,1.12,0.87,0.97
+Phosphate,0.96,0.97,0.94
+Proline,0.98,0.82,0.81
+Pyroglutamic acid,0.94,1.14,1.07
+Pyruvate+Oxalacetic acid,0.89,0.76,0.68
+Rhamnose,2.07,0.57,1.18
+Ribitol,0.27,1.7,0.46
+Ribose,0.66,1.34,0.88
+Ribulose,0.52,1.11,0.57
+Sarcosine,1.66,0.71,1.178
+S-Benzyl-L-Cysteine,0.37,1.5,0.56
+Serine,0.99,0.88,0.88
+Succinic acid,0.87,0.83,0.72
+Tagatose,1.15,0.75,0.86
+Taurine,0.65,1.86,1.21
+Threonine,1.16,0.82,0.95
+Trans-4-Hydroxy-L-proline,1.05,0.79,0.83
+Tryptophan,0.93,1.26,1.17
+Tyrosine,0.94,0.87,0.82
+Uracil,1.11,0.69,0.76
+Uric acid,0.81,1.2,0.97
+Valine,1.17,0.85,1
+Xylitol,0.88,1.09,0.96
+Xylose,0.99,0.43,0.43

@@ -1,0 +1,269 @@
+Metabolite,Cancer vs Control
+,ratio
+1-linoleoylglycerophosphocholine,0.1989
+1-palmitoylglycerol,0.2313
+1-palmitoylglycerophosphocholine,0.2441
+1-palmitoylglycerophosphoinositol,0.209
+2-docosahexaenoylglycerophosphoethanolamine,0.2506
+2-hydroxyglutarate,3.0797
+5-oxoproline,0.3856
+6-phosphogluconate,12.7829
+acetylcarnitine,3.2016
+acetylphosphate,0.4573
+adenosine 5-monophosphate,0.1864
+asparagine,0.2161
+aspartate,0.4494
+butyrylcarnitine,19.2149
+C-glycosyltryptophan,6.0091
+chiro-inositol,0.2684
+cholesterol,0.5431
+choline,0.3554
+cis-aconitate,4.1682
+citrate,21.0513
+citrulline,1.9516
+cysteine,2.245
+cysteine-glutathione disulfide,232.433
+dihydrocholesterol,0.0797
+docosahexaenoate,0.3177
+eicosapentaenoate,0.3486
+ethanolamine,0.066
+flavin adenine dinucleotide,0.0977
+fructose 6-phosphate,39.0824
+fucose,0.2304
+gamma-aminobutyrate,0.0226
+gamma-glutamylalanine,15.58
+gamma-glutamylglutamate,40.0851
+gamma-glutamylglutamine,18.3218
+gamma-glutamylphenylalanine,3.4806
+glucose,0.3922
+glucose 6-phosphate,85.1556
+glucuronate,0.0161
+glutaroyl carnitine,0.0712
+glycerate,0.0123
+glycerophosphorylcholine,35.7251
+glycylproline,0.3723
+gulono-14-lactone,0.0731
+histidine,0.428
+hydroxyisovaleroyl carnitine,0.2472
+hypoxanthine,0.4733
+Isobar: fructose 16-diphosphate glucose 16-diphosphate,117.3951
+Isobar: ribulose 5-phosphate xylulose 5-phosphate,22.6092
+isoleucine,0.5368
+isovalerylcarnitine,15.0479
+lactate,2.8516
+lysine,0.4989
+malonylcarnitine,0.2143
+maltotetraose,101.0793
+mannose,0.11
+methylphosphate,0.2774
+myo-inositol,0.2028
+N-acetylaspartate,5.9765
+N-acetylglucosamine 6-phosphate,5.832
+N-acetylglycine,0.2184
+N-acetylmethionine,7.4821
+N-acetylthreonine,0.4518
+N-glycolylneuraminate,8.1678
+nicotinamide adenine dinucleotide,0.1327
+palmitoyl sphingomyelin,0.3235
+pantothenate,0.3144
+phosphate,0.5145
+phosphoethanolamine,5.4491
+pipecolate,2.8727
+putrescine,6.7631
+ribitol,0.0517
+riboflavin,0.0751
+ribose,0.0845
+scyllo-inositol,0.0924
+spermidine,2.2011
+succinate,0.2531
+thiamin,0.1679
+thymine,4.6871
+tyrosine,0.5366
+uridine,2.461
+xylitol,0.1046
+xylulose,0.1173
+1-palmitoylglycerophosphoethanolamine,0.2374
+1-stearoylglycerophosphocholine,0.1597
+2-docosahexaenoylglycerophosphocholine,0.1387
+2-methylbutyroylcarnitine,4.4563
+5-aminovalerate,0.2097
+arginine,0.491
+butyrylglycine,0.096
+gamma-glutamylleucine,2.8016
+gamma-glutamylmethionine,4.1628
+glutamate gamma-methyl ester,0.3065
+glycerol 2-phosphate,3.6059
+glycine,0.5376
+hypotaurine,0.2954
+kynurenine,2.7821
+leucine,0.5355
+nicotinamide,0.5157
+serine,0.3571
+stearidonate,0.1284
+uracil,0.5028
+valine,0.6015
+1-arachidonoylglycerophosphoinositol,0.3838
+1-stearoylglycerol,0.619
+1-stearoylglycerophosphoinositol,0.3833
+arabitol,0.368
+glutamine,0.5908
+glycerol 3-phosphate,6.4017
+inositol 1-phosphate,0.5068
+threonine,0.6257
+linolenate,0.2029
+1-oleoylglycerophosphoethanolamine,0.2298
+choline phosphate,2.3388
+gluconate,0.41
+valerylglycine,0.2488
+1-octadecanol,0.6537
+2-palmitoylglycerophosphoethanolamine,0.442
+N-acetylleucine,0.4592
+phenylalanine,0.7029
+ribulose,0.2566
+2-aminobutyrate,2.0926
+alanine,0.7212
+tryptophan,0.6855
+1-oleoylglycerophosphocholine,0.4386
+isovalerylglycine,0.2606
+methionine,0.6381
+7-beta-hydroxycholesterol,0.5029
+fumarate,0.6525
+urea,0.321
+56-dihydrouracil,0.4947
+arachidonate,0.5938
+dihomo-linolenate,0.6831
+isobutyrylcarnitine,2.742
+fructose,0.3563
+N-acetylalanine,1.4334
+n-Butyl Oleate,0.6432
+erythritol,0.576
+creatine,2.0104
+lathosterol,0.3328
+palmitate,0.5347
+hexanoylglycine,0.2605
+glycerol,0.4348
+thymidine,0.5264
+palmitoylcarnitine,4.601
+xanthosine,0.593
+deoxycarnitine,1.9233
+1-stearoylglycerophosphoethanolamine,0.2943
+stearoyl sphingomyelin,0.6254
+taurocholate,0.3558
+azelate,0.6388
+sorbitol,0.0629
+propionylcarnitine,2.2173
+3-phosphoglycerate,0.2889
+cinnamoylglycine,0.2246
+stearoylcarnitine,3.856
+2-arachidonoylglycerophosphocholine,0.5373
+gamma-glutamylvaline,1.5649
+1-arachidonoylglycerophosphoethanolamine,0.5434
+gamma-glutamyltyrosine,1.8396
+phosphoenolpyruvate,0.1902
+2-palmitoleoylglycerophosphocholine,3.3259
+1213-hydroxyoctadec-9(Z)-enoate,0.3129
+nicotinamide riboside,0.4183
+2-docosapentaenoylglycerophosphocholine,0.5555
+5-methylthioadenosine,0.6519
+margarate,0.5425
+2-arachidonoylglycerophosphoinositol,0.2412
+cytidine 5-monophosphate,0.814
+ascorbate,16.1063
+glycylleucine,3.0797
+linoleate,0.4947
+xylose,0.5315
+caprate,0.737
+succinylcarnitine,1.4549
+phenylacetylglycine,0.3904
+caproate,0.7002
+2-palmitoylglycerophosphocholine,0.6377
+carnitine,1.303
+10-heptadecenoate,0.5301
+ornithine,0.6919
+13-HODE + 9-HODE,0.5114
+adrenate,1.7198
+oleate,0.5432
+anserine,4.4039
+2-arachidonoylglycerophosphoethanolamine,0.727
+3-hydroxybutyrate,1.746
+myristate,0.7007
+phosphopantetheine,1.9372
+910-hydroxyoctadec-12(Z)-enoic acid,0.4063
+palmitoleate,0.5937
+2-aminoadipate,0.6421
+erythronate,1.4779
+homostachydrine,0.5777
+hexadecanedioate,0.5989
+eicosenoate,0.4817
+phenylpropionylglycine,0.195
+adenine,0.7089
+glycolate,0.6882
+N-acetylornithine,0.7358
+dehydroascorbate,1.6592
+urate,1.5053
+beta-alanine,1.4994
+S-adenosylhomocysteine,0.7732
+proline,0.9056
+2-linoleoylglycerophosphocholine,0.7098
+1-linoleoylglycerophosphoethanolamine,0.6444
+7-alpha-hydroxycholesterol,0.4134
+10-nonadecenoate,0.5889
+pyridoxate,0.5777
+hippurate,0.5713
+15-anhydroglucitol,0.8296
+3-indoxyl sulfate,0.5899
+laurate,0.8847
+phenol sulfate,0.6483
+inosine,0.8268
+stearate,0.7825
+pyrophosphate,0.5739
+docosapentaenoate,0.834
+carnosine,2.9941
+2-linoleoylglycerophosphoethanolamine,1.7267
+4-guanidinobutanoate,0.5928
+1-myristoylglycerophosphocholine,1.6781
+daidzein,0.4242
+oleoylcarnitine,2.2985
+trizma acetate,1.3464
+N1-methylguanosine,1.2432
+catechol sulfate,0.6116
+sphingosine,0.7151
+2-palmitoleoylglycerophosphoethanolamine,1.4848
+taurine,1.2064
+ergothioneine,0.8044
+assymetric dimethylarginine,0.9245
+mannitol,0.699
+caprylate,0.7717
+pseudouridine,0.862
+2-oleoylglycerophosphocholine,0.8953
+N1-methyladenosine,1.1978
+xanthine,0.9474
+2-docosapentaenoylglycerophosphoethanolamine,0.8545
+pelargonate,0.9056
+adenosine,0.893
+gamma-glutamylisoleucine,0.9226
+dihomo-linoleate,0.8417
+allantoin,1.5853
+pentadecanoate,0.8334
+guanosine,1.3659
+6-keto prostaglandin F1alpha,0.9482
+2-hydroxyhippurate,0.4243
+arachidate,1.1025
+2-hydroxyisobutyrate,1.0995
+sarcosine,0.0208
+4-hydroxybutyrate,0.8686
+pro-hydroxy-pro,0.9219
+2-hydroxystearate,1.0723
+prostaglandin E2,1.131
+corticosterone,0.6357
+2-hydroxypalmitate,1.0432
+3-ureidopropionate,1.0501
+N-formylmethionine,0.5386
+1-palmitoleoylglycerophosphocholine,0.9531
+2-oleoylglycerophosphoethanolamine,1.023
+malate,1.0209
+3-dehydrocarnitine,0.9017
+glutamate,1.0019
+2-deoxyinosine,1.0338
+heme,0.6117
+7-methylguanine,1.0005

@@ -1,0 +1,119 @@
+Compound name,H1975-AZD9291  vs  H1975-DMSO,H1975-PF05  vs  H1975-DMSO,PC9-PF05  vs  PC9-DMSO,"HCC827-PF05
+  vs  HCC827-DMSO"
+,Ratio,Ratio,Ratio,Ratio
+NAD+,1,0.8,1,0.9
+cAMP,0.7,0.9,0.7,0.9
+cGMP,N.A.,N.A.,N.A.,N.A.
+NADH,0.5,0.4,0.7,0.8
+Xanthine,0.8,0.7,0.9,0.9
+ADP-ribose,0.7,0.7,0.9,1
+Mevalonic acid,N.A.,N.A.,N.A.,N.A.
+UDP-glucose,1,1,0.9,0.8
+Uric acid,0.9,0.7,0.8,0.8
+NADP+,0.5,0.6,0.8,0.8
+IMP,1.6,0.8,0.9,1.2
+Sedoheptulose 7-phosphate,N.A.,N.A.,N.A.,N.A.
+Glucose 6-phosphate,0.3,0.4,0.8,0.9
+Fructose 6-phosphate,0.11,4,0.7,0.7
+Fructose 1-phosphate,N.A.,<1,0.5,<1
+Galactose 1-phosphate,0.7,0.9,1.1,0.9
+Glucose 1-phosphate,0.02,0.3,1.2,0.6
+Acetoacetyl CoA,N.A.,N.A.,N.A.,N.A.
+Acetyl CoA,0.5,N.A.,N.A.,0.3
+Folic acid,0.9,0.8,0.9,0.9
+Ribose 5-phosphate,0.2,0.2,0.5,0.6
+CoA,0.9,0.7,0.7,0.8
+Ribose 1-phosphate,0.5,N.A.,N.A.,0.3
+Ribulose 5-phosphate,0.2,0.4,0.7,0.6
+Xylulose 5-phosphate,<1,<1,0.1,0.6
+Erythrose 4-phosphate,0.3,N.A.,N.A.,0.6
+HMG CoA,0.8,0.6,0.9,0.7
+Glyceraldehyde 3-phosphate,0.09,0.2,1.2,0.6
+NADPH,1.7,0.7,0.9,1
+Malonyl CoA,0.4,N.A.,N.A.,0.3
+Phosphocreatine,0.9,0.8,0.8,0.8
+XMP,0.9,0.7,1,0.6
+Dihydroxyacetone phosphate,0.2,0.2,0.6,0.9
+Adenylosuccinic acid,1.2,0.7,1,1.2
+"Fructose 1,6-diphosphate",0.3,0.3,0.4,1
+6-Phosphogluconic acid,0.1,0.14,0.5,0.6
+N-Carbamoylaspartic acid,0.4,0.07,0.2,0.3
+PRPP,0.6,0.2,0.7,0.5
+2-Phosphoglyceric acid,1.3,0.5,0.8,0.6
+"2,3-Diphosphoglyceric acid",0.2,0.3,0.7,0.7
+3-Phosphoglyceric acid,1.2,0.5,0.8,0.6
+Phosphoenolpyruvic acid,1.5,0.4,0.6,0.5
+GMP,1.3,0.9,1,1.2
+AMP,1.2,0.8,0.9,1.1
+2-Oxoisovaleric acid,N.A.,N.A.,N.A.,1
+GDP,1.8,0.9,1,1.2
+Lactic acid,0.3,0.4,0.7,0.7
+ADP,1.9,0.8,0.9,1.1
+GTP,0.9,0.7,1,1
+Glyoxylate,N.A.,N.A.,N.A.,N.A.
+ATP,0.8,0.7,1,1
+Glycerol 3-phosphate,0.7,0.7,0.6,0.9
+Glycolic acid,N.A.,N.A.,N.A.,N.A.
+Pyruvic acid,0.4,0.3,1.4,0.6
+N-Acetylglutamic acid,0.9,1.1,0.2,1
+2-Hydroxyglutaric acid,0.5,0.4,0.5,0.5
+Carbamoylphosphate,N.A.,N.A.,N.A.,N.A.
+Succinic acid,0.8,0.6,0.8,0.7
+Malic acid,0.5,0.6,0.7,0.6
+2-Oxoglutaric acid,0.7,0.6,0.6,0.6
+Fumaric acid,0.5,0.6,0.7,0.6
+Citric acid,0.8,0.7,1,0.7
+cis-Aconitic acid,0.8,0.7,1,0.7
+Isocitric acid,0.9,0.8,1.1,0.8
+Urea,0.8,0.8,0.8,0.9
+Gly,1.2,1.4,1.6,1.8
+Putrescine,0.6,0.5,0.9,0.8
+Sarcosine,0.8,1.1,2.2,1.4
+beta-Ala,1,0.6,1.8,0.9
+Ala,0.8,0.9,0.5,1.7
+"N,N-Dimethylglycine",N.A.,1,0.7,N.A.
+gamma-Aminobutyric acid,1.1,N.A.,N.A.,1
+Choline,2.1,11,N.A.,1.7
+Ser,0.7,1.3,2.2,2.1
+Carnosine,1.4,0.8,0.9,0.9
+Creatinine,0.8,0.8,0.8,0.9
+Pro,0.9,1.8,2.1,1.3
+Val,1.1,1.7,2.4,2.2
+Betaine,N.A.,7.2,N.A.,1.1
+Thr,0.9,1.6,2.3,2
+Homoserine,N.A.,N.A.,N.A.,N.A.
+Betaine aldehyde,N.A.,N.A.,N.A.,N.A.
+Cys,1.3,1.4,1<,1.1
+Hydroxyproline,0.8,1.1,1.5,1.3
+Creatine,1.1,0.9,0.5,1
+Ile,1,1.4,2.1,1.8
+Leu,1,1.5,2.1,1.9
+Asn,0.8,1.2,2.1,1.7
+Ornithine,1.1,1.2,1.4,2.1
+Asp,1.3,1.2,1.8,1.3
+Homocysteine,N.A.,N.A.,N.A.,N.A.
+Adenine,1.1,1,0.9,0.9
+Hypoxanthine,N.A.,1<,N.A.,N.A.
+Spermidine,0.9,0.9,0.9,1
+Gln,0.8,1.6,2.1,2.5
+Lys,1.1,2,1.8,2.3
+Glu,0.9,0.9,1.1,1
+Met,1,1.4,2.3,2
+Guanine,N.A.,N.A.,N.A.,N.A.
+His,1,1.5,2.2,1.9
+Carnitine,0.6,1.1,N.A.,1
+Phe,1,1.6,2.2,1.9
+Arg,0.9,1.4,1.5,1.4
+Citrulline,0.8,1.2,1.6,1.6
+Tyr,1,1.5,2.1,1.9
+S-Adenosylhomocysteine,0.8,1.1,0.7,1
+Spermine,1.2,1.2,0.7,1
+Trp,1,1.5,2.1,1.8
+Cystathionine,0.8,1.2,1.5,1.9
+Adenosine,0.9,0.6,N.A.,0.9
+Inosine,0.6,N.A.,N.A.,N.A.
+Guanosine,0.9,1<,N.A.,1.4
+Argininosuccinic acid,0.6,1.3,1.4,1
+GSH,1.1,1,1.1,1
+"glutathione, oxidized",0.9,0.8,1,0.9
+S-Adenosylmethionine,0.9,1.1,1.1,1
