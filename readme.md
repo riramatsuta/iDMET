@@ -18,5 +18,7 @@
 
 ## Program
 Steps 1 (step1.R) and steps 2 (step2.R) are the process of organizing user’s data. We collect supplementary data from papers or repositories to generate a list of variable metabolite names. Steps 3 (step3.R) is computational processes for network generation. We calculated the similarity based on the information generated in step 2 and visualize the relationship.
+Please read the publication for further information.
 
 ## Publications
+At present, we are writing papers describing the data integration of cancer metabolomics.
