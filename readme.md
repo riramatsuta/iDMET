@@ -8,8 +8,12 @@
 
 ## Description
 * Dataset
-  * Dataset1:
-  * Dataset2: 
+
+The 27 data sets were divided into two datasets: the first data(Dataset1) sets was used for comparison with ex-isting methods, and the second data sets(Dataset2) was used for testing and evaluation of our methodology.
+
+  * Dataset1 : 5 raw metabolome data files
+
+  * Dataset2 : 27 studies 
 
 * Annoation list
   * Annotation list presents the information in an organized fashion, collecting common metabolite names and their synonyms.
