@@ -40,7 +40,7 @@ Please read the publication for further information.
     # According to the result of the chi-squared test, an adjacency matrix is obtained.
     Q <- P
     Q[P<0.05] <- 1   # significant
-    Q[P>=0.05] <- 0  # non-significant
+    Q[P>=0.05] <- 0  # non-significant (p-value >0.05)
     diag(Q) <- 0
 ```
 
