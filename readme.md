@@ -36,7 +36,7 @@ Please read the publication for further information.
     if (a*b*c*d == 0) {
       a <- a+0.5;b <- b+0.5;c <- c+0.5;d <- d+0.5
     }
+```
 
-
-### Publications
+## Publications
 At present, we are writing papers describing the data integration of cancer metabolomics.
