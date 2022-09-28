@@ -23,6 +23,20 @@ Please read the publication for further information.
 * step1.R
 * step2.R
 * step3.R
+* 
+パラメーターは
+1. ratioの閾値、
+``` r
+  # 条件
+  index1 <- which(ratio>=1.5) # 差がある
+  index2 <- which(ratio < (1/(1.5))) # 差がない
+```
+2. オッズ比の補正値、オッズ比の閾値
+``` r
+    # // オッズ比
+    if (a*b*c*d == 0) {
+      a <- a+0.5;b <- b+0.5;c <- c+0.5;d <- d+0.5
+    }
 
 
 
