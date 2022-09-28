@@ -23,7 +23,6 @@ Please read the publication for further information.
 * step1.R
 * step2.R
 * step3.R
-* 
 パラメーターは
 1. ratioの閾値、
 ``` r
