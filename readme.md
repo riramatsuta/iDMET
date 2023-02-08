@@ -45,4 +45,4 @@ Please read the publication for further information.
 ```
 
 ## Publications
-At present, we are writing papers describing the data integration of cancer metabolomics.
+Rira Matsuta, Hiroyuki Yamamoto, Masaru Tomita, Rintaro Saito, "iDMET: network-based approach for integrating differential analysis of cancer metabolomics", BMC Bioinformatics, 23:508 (2022). 
